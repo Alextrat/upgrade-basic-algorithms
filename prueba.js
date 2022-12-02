@@ -10,4 +10,3 @@ console.log(direccion2.ciudad);
 direccion2.pais = "España";
 console.log(direccion2);
 
-/
